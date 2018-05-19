@@ -1,7 +1,7 @@
 # Programming
 Numbersigns, quotes and ampersands.
 
-
+[![GitHub license](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/texstremists/Programming/blob/master/LICENSE)
 
 ## Crafty
 

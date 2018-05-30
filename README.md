@@ -16,3 +16,5 @@ Tiny, useful codes go here, not fitting to any of the other categories.
 ## Post-processing
 
 - [XML-colorMap-creator](https://github.com/texstremists/Programming/blob/master/Post-processing/XML-colorMap-creator/README.md), a color map generator for Paraview
+
+- [VTKWritter](https://github.com/texstremists/Programming/blob/master/Post-processing/VtkWriter.m), a Matlab code for writing .vtk output files. Please read the comments for details.

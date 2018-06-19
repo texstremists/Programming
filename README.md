@@ -13,6 +13,13 @@ Tiny, useful codes go here, not fitting to any of the other categories.
 
 
 
+## Computational-geometry
+
+- [polysample](https://github.com/texstremists/Programming/tree/master/Computational-geometry/polysample.m), uniformly distributed points in a polygon. Use cases: Monte Carlo integration, constrained Voronoi tessellation.
+
+
+
+
 ## Post-processing
 
 - [XML-colorMap-creator](https://github.com/texstremists/Programming/blob/master/Post-processing/XML-colorMap-creator/README.md), a color map generator for Paraview

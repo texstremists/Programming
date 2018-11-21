@@ -18,6 +18,7 @@ Tiny, useful codes go here, not fitting to any of the other categories.
 ## Computational-geometry
 
 - [polysample](https://github.com/texstremists/Programming/tree/master/Computational-geometry/polysample.m), uniformly distributed points in a polygon. Use cases: Monte Carlo integration, constrained Voronoi tessellation.
+- [triangulate](https://github.com/texstremists/Programming/tree/master/Computational-geometry/triangulate.m), Partition a convex or concave polygon into non-overlapping triangles. Use cases: integration on polygons, etc.
 
 
 

@@ -8,10 +8,9 @@ Numbersigns, quotes and ampersands.
 Tiny, useful codes go here, not fitting to any of the other categories.
 
 - [startup](https://github.com/texstremists/Programming/blob/master/Crafty/startup.m): MATLAB startup file to add user's toolbox to the MATLAB path
-
 - [Makefile-Matlab](https://github.com/texstremists/Programming/tree/master/Crafty/Makefile-Matlab), simple makefile to build C++ MEX files outside MATLAB
-
 - [colorname2RGB](https://github.com/texstremists/Programming/blob/master/Crafty/colorname2RGB.m), normalized RGB representation of color names
+- [swap](https://github.com/texstremists/Programming/blob/master/Crafty/swap.m), swap two input arguments
 
 
 
